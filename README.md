@@ -1,6 +1,6 @@
 # Project
 
-#As a part of IBM SKILLS BUILD Internship I have designed a website named APPOINT and hosted it by using github.
+#As a part of IBM SKILLS BUILD Internship I have designed a website named APPOINT My Doctor and hosted it by using github.
 
 #Here is my github repositary link:https://github.com/AjayReddy11/Project.git
 
