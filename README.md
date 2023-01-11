@@ -2,7 +2,7 @@
 
 #As a part of IBM SKILLS BUILD Internship I have designed a website named APPOINT and hosted it by using github.
 
-#Here is my github repositary link:
+#Here is my github repositary link:https://github.com/AjayReddy11/Project.git
 
 #Here is my Project link:https://ajayreddy11.github.io/Project/
 
